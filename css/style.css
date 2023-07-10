@@ -482,6 +482,17 @@ body {
 	margin-right: 8px;
 }
 
+.rsvp {
+	width: auto;
+	height: auto;
+	background-color: #162fc0;
+	border-radius: 20px;
+	text-align: center;
+	color: #fff;
+	padding: 8px;
+	margin-right: 8px;
+}
+
 .venue a {
 	text-decoration: none;
 	color: #fff;
@@ -534,7 +545,7 @@ body {
 	color: #564861;
 	text-align: center;
 	font-size: 16px;
-	margin: 24px;
+	margin: 12px;
 }
 
 .phone {
@@ -561,7 +572,6 @@ a {
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
-	margin-bottom: 24px;
 }
 
 .twitter {
@@ -576,4 +586,5 @@ a {
 	display: flex;
 	font-size: 12px;
 	letter-spacing: 0pt;
+	padding: 8px;
 }
