@@ -1,2 +1,2 @@
 # wedding-invitation
-[Wedding Invitation Link](https://q-thai.com/)
+[Wedding Invitation Link](https://thai-ha.co/)
