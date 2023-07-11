@@ -462,6 +462,17 @@ body {
 	margin-bottom: 40px;
 }
 
+.name {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-style: normal;
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+	color: #e25c67;
+	line-height: 1;
+}
+
 #time {
 	width: auto;
 	height: auto;
